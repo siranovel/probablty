@@ -4,7 +4,7 @@ probablty_stdy
 
 ## Description ##
 
-![probablty_stdy](images/ucProbablity.jpg)
+![probablty_stdy](images/ucProbablity.jpg)  
 詳細は、https://siranovel.github.io/mydocs/probablty  
 
 ## Demo ##
