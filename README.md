@@ -1,5 +1,5 @@
-probablty_stdy
-==============
+probablty
+=========
 確率の勉強用です。
 
 ## Description ##
@@ -20,8 +20,8 @@ jfreechart
 
 ## install ##
 
-    git clone https://github.com/siranovel/probablty_stdy.git  
-    cd probablty_stdy/bin  
+    git clone https://github.com/siranovel/probablty.git  
+    cd probablty/bin  
     任意ディレクトリへコピーし、tarファイルを解凍  
 
 ## Contribution ##
