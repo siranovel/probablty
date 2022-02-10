@@ -14,7 +14,7 @@ probablty
 ## Requirement ##
 java11対応  
 Apache commons-math3  
-jfreechart  
+jfreechart  ver 1.0.19
 
 ## Usage ##
 
