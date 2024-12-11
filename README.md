@@ -1,35 +1,41 @@
-probablty
-=========
-確率の勉強用です。
+num4probstdy
+============
+確率・統計について、勉強用です
 
-## Description ##
+## decscription ##
 
-![probablty_stdy](images/ucProbablity.jpg)  
-詳細は、https://siranovel.github.io/mydocs/probablty  
+詳細は、https://siranovel.github.io/mydocs/probstdy  
 
 ## Demo ##
 
 ## VS. ##
 
 ## Requirement ##
-java11対応  
-Apache commons-math3  
-jfreechart  ver 1.0.19
+ruby rake-compilerライブラリ
 
 ## Usage ##
 
+sample/samplez.rbファイルを参照
+
 ## install ##
 
-    git clone https://github.com/siranovel/probablty.git  
-    cd probablty/bin  
-    任意ディレクトリへコピーし、tarファイルを解凍  
+From rubygems:  
+~~~
+    [sudo] gem install num4probstdy
+~~~
+
+or from the git repository on github:  
+~~~
+    git clone https://github.com/siranovel/probstdy.git  
+    cd probstdy  
+    gem build *.gemspec
+    gem install *.gem
+~~~
 
 ## Contribution ##
 
 ## Licence ##
-
-[GPLv2](LICENSE)
-
+[MIT](LICENSE)
 
 ## Author ##
 
