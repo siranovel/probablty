@@ -4,7 +4,7 @@ num4probstdy
 
 ## decscription ##
 
-詳細は、https://siranovel.github.io/mydocs/probstdy  
+詳細は、https://siranovel.github.io/mydocs/probably  
 
 ## Demo ##
 
@@ -26,8 +26,8 @@ From rubygems:
 
 or from the git repository on github:  
 ~~~
-    git clone https://github.com/siranovel/probstdy.git  
-    cd probstdy  
+    git clone https://github.com/siranovel/probably.git  
+    cd probably  
     gem build *.gemspec
     gem install *.gem
 ~~~
