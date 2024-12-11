@@ -4,7 +4,7 @@ num4probstdy
 
 ## decscription ##
 
-詳細は、https://siranovel.github.io/mydocs/probably  
+詳細は、https://siranovel.github.io/mydocs/probablty  
 
 ## Demo ##
 
