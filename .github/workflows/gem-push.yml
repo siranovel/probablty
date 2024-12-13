@@ -17,7 +17,7 @@ jobs:
       uses: actions/setup-java@v4
       with:
         java-version: '17'
-        distribution: graalvm
+        distribution: oracle
     - name: Set up JRuby
       uses: ruby/setup-ruby@v1
       with:
