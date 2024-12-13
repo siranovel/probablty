@@ -26,8 +26,8 @@ From rubygems:
 
 or from the git repository on github:  
 ~~~
-    git clone https://github.com/siranovel/probably.git  
-    cd probably  
+    git clone https://github.com/siranovel/probablty.git  
+    cd probablty  
     gem build *.gemspec
     gem install *.gem
 ~~~
