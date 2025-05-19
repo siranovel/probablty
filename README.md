@@ -24,12 +24,19 @@ From rubygems:
     [sudo] gem install num4probstdy
 ~~~
 
+Install via Gemfile:  
+~~~
+source "https://rubygems.pkg.github.com/siranovel" do
+    gem "num4probstdy"
+end
+~~~
+
 or from the git repository on github:  
 ~~~
     git clone https://github.com/siranovel/probablty.git  
     cd probablty  
-    gem build *.gemspec
-    gem install *.gem
+    gem build num4probstdy.gemspec
+    gem install num4probstdy
 ~~~
 
 ## Contribution ##
